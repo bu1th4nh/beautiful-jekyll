@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: bu1th4nh's website
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: ""
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -73,9 +73,8 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  facebook: bu1th4nh.127
+  github: bu1th4nh
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -92,14 +91,14 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+ # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -142,7 +141,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "ICT"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
