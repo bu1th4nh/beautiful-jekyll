@@ -1,6 +1,6 @@
 body{
 	text-align: center;
-	background: rgb(11, 210, 224);
+	background: #0bd2e0;
   font-family: Consolas;
   font-weight: 100;
 }
@@ -31,7 +31,7 @@ h1{
 #clockdiv div > span{
 	padding: 15px;
 	border-radius: 3px;
-	background: rgb(38, 0, 173);
+	background: #2600ad;
 	display: inline-block;
 }
 
