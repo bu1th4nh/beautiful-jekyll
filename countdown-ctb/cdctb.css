@@ -34,7 +34,6 @@ h1{
 	border-radius: 2px;
 	background: #5a97df;
 	display: inline-block;
-	opacity: 0.80;
 }
 
 #clockdiv div > span{
@@ -42,13 +41,7 @@ h1{
 	border-radius: 3px;
 	background: #2600ad;
 	display: inline-block;
-	opacity: 0.80;
-}
 
-#nplaying{
-	text-align: center;
-	font-family: monospace;
-	font-size: 1px
 }
 
 .smalltext{
