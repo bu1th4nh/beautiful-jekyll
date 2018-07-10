@@ -26,7 +26,7 @@ h1{
 	font-weight: 100;
 	text-align: center;
 	font-size: 70px;
-	opacity: 1;
+	opacity: 0.84;
 }
 
 #clockdiv > div{
@@ -42,7 +42,7 @@ h1{
 	border-radius: 3px;
 	background: #2600ad;
 	display: inline-block;
-	opacity: 1;
+	opacity: 0.84;
 }
 
 #nplaying{
