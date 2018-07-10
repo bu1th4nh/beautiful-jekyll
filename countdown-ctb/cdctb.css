@@ -1,15 +1,22 @@
+@font-face {
+	font-family: "Montserrat";
+	src: url("fonts/Montserrat-Regular.ttf");
+}
+
 body{
+
+	background-image: url("img/ctb.jpg");
 	text-align: center;
-	background: #0bd2e0;
-  font-family: Consolas;
-  font-weight: 100;
+	font-family: Consolas;
+	font-weight: 100;
 }
 
 h1{
-  color: #e91111;
-  font-weight: 100;
-  font-size: 35px;
-  margin: 40px 0px 20px;
+    color: #e91111;
+    font-weight: 100;
+    font-size: 35px;
+    margin: 40px 0px 20px;
+    font-family: "Montserrat", Helvetica;
 }
 
 #clockdiv{
@@ -33,6 +40,12 @@ h1{
 	border-radius: 3px;
 	background: #2600ad;
 	display: inline-block;
+}
+
+#nplaying{
+	text-align: center;
+	font-family: monospace;
+	font-size: 1px
 }
 
 .smalltext{
