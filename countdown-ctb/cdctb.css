@@ -3,8 +3,10 @@
 	src: url("fonts/Montserrat-Regular.ttf");
 }
 
+
 body{
 	background-image: url("img/ctb.jpg");
+	height: 100%; 
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
