@@ -4,7 +4,7 @@ title: About me
 subtitle: Just somethin' about me
 ---
 
-Chào mừng các bạn đến với blog của tôi! Nếu các bạn chưa biết tôi thì hãy đọc phấn dưới nhé!
+Chào mừng các bạn đến với blog của tôi! Nếu các bạn chưa biết tôi thì hãy đọc phần dưới nhé!
 
 ## Đôi chút về tôi
    - Tôi là Thành - a.k.a. bu1th4nh. 
