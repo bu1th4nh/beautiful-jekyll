@@ -4,8 +4,12 @@ title: About me
 subtitle: Just somethin' about me
 ---
 
-Chào mừng các bạn đến với blog của tôi! Tôi là Thành. Tôi hiện đang học tại trường THPT Chuyên Thái Bình.
-Còn về sở thích ư? Tôi thích code, nghe nhạc (chủ yếu là EDM), đọc sách và chơi một vài game (chủ yếu là các game thế giới mở)
+Chào mừng các bạn đến với blog của tôi! Nếu các bạn chưa biết tôi thì hãy đọc phấn dưới nhé!
+
+## Đôi chút về tôi
+   - Tôi là Thành - a.k.a. bu1th4nh. 
+   - Tôi hiện đang học tại trường THPT Chuyên Thái Bình.
+   - Còn về sở thích? Tôi thích code, nghe nhạc (đặc biệt là EDM), đọc sách và chơi game (các game thế giới mở là chính :))
 
 ## Còn mục đích của blog này?
    - Ở blog này tôi sẽ nói về những thứ tôi thích, có thể là một vài chủ đề về Khoa học máy tính, CS, Arduino, hoặc cũng có thể là
