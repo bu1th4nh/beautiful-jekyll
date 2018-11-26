@@ -8,7 +8,7 @@ Chào mừng các bạn đến với blog của tôi! Nếu các bạn chưa bi�
 
 ## Đôi chút về tôi
    - Tôi là Thành - a.k.a. bu1th4nh. 
-   - Tôi hiện đang học tại trường THPT Chuyên Thái Bình.
+   - Tôi hiện đang học tại trường THPT chuyên Thái Bình.
    - Còn về sở thích? Tôi thích code, nghe nhạc (đặc biệt là EDM), đọc sách và chơi game (các game thế giới mở là chính :))
 
 ## Còn mục đích của blog này?
