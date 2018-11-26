@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [tản mạn]
+tags: [tản_mạn]
 title: First post!
 ---
 
