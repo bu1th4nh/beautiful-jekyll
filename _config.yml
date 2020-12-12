@@ -26,7 +26,7 @@ navbar-links:
   
   Computer Science: ""
   Arduinos: ""
-  Tản mạn: "tản_mạn"
+  Tản mạn: "misc"
   About Me: "aboutme"
   
 # Image to show in the navigation bar - image must be a square (width = height)
