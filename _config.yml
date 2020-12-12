@@ -246,3 +246,6 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+strict_front_matter: true
+liquid:
+  error_mode: strict
