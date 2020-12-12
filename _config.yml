@@ -57,7 +57,7 @@ round-avatar: true
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+author: Thành Bùi
   name: bu1th4nh 
 
 # Select the social network links that you want to show in the footer.
